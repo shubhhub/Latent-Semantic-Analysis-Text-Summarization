@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements Latent Semantic Analysis (LSA) for automatic text summarization. LSA is a technique that analyzes the relationships between terms and documents in a corpus to extract the underlying structure and identify key concepts. The summarization process involves preprocessing text, creating a term-document matrix, applying Singular Value Decomposition (SVD), and selecting top sentences to generate a concise summary.
+This project implements Latent Semantic Analysis (LSA) for automatic text summarization. LSA is a technique that analyzes the relationships between terms and documents in a corpus to extract the underlying structure and identify key concepts. The summarization process involves preprocessing text, creating a term-document matrix, applying Singular Value Decomposition (SVD), and selecting top sentences to generate a concise summary. Comments are added to the main file, open it and read the comments expalining the working and flow.
 
 ## Features
 
