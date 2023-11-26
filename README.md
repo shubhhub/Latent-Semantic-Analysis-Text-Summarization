@@ -27,5 +27,5 @@ This project implements Latent Semantic Analysis (LSA) for automatic text summar
 ## Author
 
 - Shubh Garg
-- [Your GitHub Profile](https://github.com/shubhhub)
+- [GitHub](https://github.com/shubhhub)
 
